@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 0a578e4791fe8864bab48e6bc2765b14
+  - enabled: 1
+    path: Assets/Scenes/GameMode.unity
+    guid: fa1bae3ef9c185245985316704180951
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: ff43e3617ea6d834cb8c273b9a6f5bdb
+  - enabled: 1
+    path: Assets/Scenes/SkillTestMode.unity
+    guid: 011fb5d4acfe33e49b313455b55d30a1
+  - enabled: 1
+    path: Assets/Scenes/FreeDrivingMode.unity
+    guid: 1ae44804fb5417942a74786f505675d9
+  - enabled: 1
+    path: Assets/Scenes/Credit.unity
+    guid: de546366cdba1ea459e4aa6570143dae
+  m_configObjects: {}

@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 6367914034e88d441b7403bf327ac43c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nextExamSideParking: {fileID: 8300000, guid: c874b33e0962ee94daf198d950e290ca, type: 3}
+  - nextExamSCurve: {fileID: 8300000, guid: f573d93c979fd9d449dc3b70cd88f157, type: 3}
+  - examPass: {fileID: 8300000, guid: 2a5952a16fe77194ca3c9b44add343bf, type: 3}
+  - examFail: {fileID: 8300000, guid: 4beeb26bd2ace3a42a522d16a558b907, type: 3}
+  - touchingTheLine: {fileID: 8300000, guid: 03636d12b399c7b429de9b36f26be5ee, type: 3}
+  - exeedTheTimeLimit: {fileID: 8300000, guid: bdfa90524bcb99f479109b27994ce70c, type: 3}
+  - failToStopWithFrontWheelOnTheLine: {fileID: 8300000, guid: d886096a8d0efc84baa720b6e462272e, type: 3}
+  - vehicleSuccessfullyParkInTheLot: {fileID: 8300000, guid: 13866d21121b1be4690ebd423f4eb229, type: 3}
+  - vehicleStopHalfWay: {fileID: 8300000, guid: 765055f972e27b24fbf8c797acfc153a, type: 3}
+  - engineStart: {fileID: 8300000, guid: f2be1589dfa9229429246c3dc13a68b2, type: 3}
+  - engineOff: {fileID: 8300000, guid: 63b9839fffee46144bdb4d089279006e, type: 3}
+  - startReverce: {fileID: 8300000, guid: bf817b55cfcb84443abfbe6ad562c4ff, type: 3}
+  - nextExamHill: {fileID: 8300000, guid: adf4531d8ce64f24e832855f6d6943bc, type: 3}
+  - nextExamZCurve: {fileID: 8300000, guid: a2f5b2ff3d02aca468224a992c8f181f, type: 3}
+  - nextExamThreePointTurn: {fileID: 8300000, guid: dae1742488d2cca4894a3a7b2fef83ad, type: 3}
+  - examHasStarted: {fileID: 8300000, guid: 1619c7e3336297b409c8117bb9123091, type: 3}
+  - stepOnLine: {fileID: 8300000, guid: ce07b9ec1ec95e446a03ddfc3bc5fee3, type: 3}
+  - vehicleMoveBackwardFail: {fileID: 8300000, guid: f077cfe5860b3504c9080dcf2d9a79ea, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
