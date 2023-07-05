@@ -16,6 +16,7 @@ Overall, this game aims to bridge the gap between theoretical knowledge and prac
 
 # Hardware Required
 - Logitech G29 Steering Wheel, Pedals and Shifter
+  
 ![image](https://github.com/SWSENG/FypProject-CarSImulator-/assets/66995676/a9e22795-f74d-47f8-a789-fc95861cb6b4)
 
 # Game Demo
